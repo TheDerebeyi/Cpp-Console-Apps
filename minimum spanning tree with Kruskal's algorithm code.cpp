@@ -1,5 +1,5 @@
 //mst.cpp, Mert Kahraman, November 16, 2020
-//Reads a graph from a file and calculates its minimum spanning tree.
+//Reads a graph from a file and calculates its minimum spanning tree. Kruskal's algorithm is used to calculate mst.
 
 #include <iostream>
 #include <fstream>
